@@ -1,4 +1,4 @@
--- DevSecOps comment
+-- DevSecOps comment to verify
 -- PostgreSQL database dump
 --
 
